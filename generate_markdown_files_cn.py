@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Generates f the files `README.md` and `UNSTABLE.md`.
+Generates the files `README.md` and `UNSTABLE.md`.
 It helps keep the content in a sane format and also allows for entries
 to be easily switched between stable/unstable status.
 """
